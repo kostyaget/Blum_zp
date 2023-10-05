@@ -97,6 +97,7 @@
     letter-spacing: 0.5px;
     font-size: 20px;
     margin-top: 20px;
+    padding-bottom: 25px;
 }
 .pane--active {
     display: block;
